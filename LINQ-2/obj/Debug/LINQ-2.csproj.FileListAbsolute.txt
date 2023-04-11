@@ -1,0 +1,7 @@
+P:\директория гит\LINQ-2\LINQ-2\bin\Debug\LINQ_2.exe
+P:\директория гит\LINQ-2\LINQ-2\bin\Debug\LINQ_2.pdb
+P:\директория гит\LINQ-2\LINQ-2\obj\Debug\LINQ-2.csproj.AssemblyReference.cache
+P:\директория гит\LINQ-2\LINQ-2\obj\Debug\LINQ-2.csproj.SuggestedBindingRedirects.cache
+P:\директория гит\LINQ-2\LINQ-2\obj\Debug\LINQ-2.csproj.CoreCompileInputs.cache
+P:\директория гит\LINQ-2\LINQ-2\obj\Debug\LINQ_2.exe
+P:\директория гит\LINQ-2\LINQ-2\obj\Debug\LINQ_2.pdb
